@@ -1,0 +1,60 @@
+body{
+    background-color: paleturquoise;
+}
+
+.top{
+    text-align:center;
+
+}
+
+.image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.subhead{
+    text-align: center;
+    background-color: paleturquoise;
+    color: black;
+}
+
+li{
+    background-color: paleturquoise;
+    text-align: center;
+}
+
+li:nth-child(1){
+    color: red;
+}
+
+li:nth-child(2){
+    color: orange;
+}
+
+li:nth-child(3){
+    color: yellow;
+}
+
+li:nth-child(4){
+    color: green;
+}
+
+li:nth-child(5){
+    color: blue;
+}
+
+li:nth-child(6){
+    color: indigo;
+}
+
+li:nth-child(7){
+    color: violet;
+}
+
+.note{
+    text-align: center;
+    font-weight: 900;
+    font-size: 50px;
+}
